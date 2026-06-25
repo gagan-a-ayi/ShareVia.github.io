@@ -1,0 +1,29 @@
+# Uploads and data directories
+uploads/
+data/
+
+# Session files
+*.sess
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Composer
+vendor/
+composer.lock
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
